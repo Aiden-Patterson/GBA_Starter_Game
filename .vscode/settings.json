@@ -1,0 +1,14 @@
+{
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "home:\\Aiden\\Desktop\\Game_Design\\Game_Boy_Advance\\My_Project",
+      "binaryPath": "home:\\Aiden\\Desktop\\Game_Design\\Game_Boy_Advance\\My_Project\\home:\\Aiden\\Desktop\\Game_Design\\Game_Boy_Advance\\My_project\\My_Project.elf",
+      "binaryArgs": []
+    },
+    {
+      "cwd": "home:\\Aiden\\Desktop\\Game_Design\\Game_Boy_Advance\\My_Project",
+      "binaryPath": "home:\\Aiden\\Desktop\\Game_Design\\Game_Boy_Advance\\My_Project\\home:\\Aiden\\Desktop\\Game_Design\\Game_Boy_Advance\\My_Project\\My_project.elf",
+      "binaryArgs": []
+    }
+  ]
+}
