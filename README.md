@@ -15,7 +15,7 @@ Pong is a great game to start with because while it is simple, it uses a lot of 
 * [Loirak.com](http://www.loirak.com/gameboy/gbatutor.php) - Game Boy Advance programming for beginners
 * [CPSC305 - Computer Systems and Acrchitecture](https://ianfinlayson.net/class/cpsc305/) - College course at Universty at Mary Washington that uses the Game Boy Advance to teach C programming
 * [Tutorial by 3DSage](https://www.youtube.com/watch?v=6ecgELrwAnQ) - A quick video outlining a lot of important information about the GBA. It is also the template that I used for my game
-* * [Visual Boy Advance](https://visualboyadvance.org/) an emulator that can be used to run the game
+* [Visual Boy Advance](https://visualboyadvance.org/) an emulator that can be used to run the game
 
 # Future Work
 * Fix bug where hitting the ball at a specific angle will cause strange velocity change
