@@ -4,8 +4,6 @@ A simple Pong game that I used to explore how programming games for the game boy
 
 I have always been interesting in making games, and I recently found an old Game Boy Advance I could play my old games on. This led to the question of how possible it would be to create my own game for this hardware, which led me to a community of individuals who have been doing this for a long time.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
@@ -14,15 +12,12 @@ I found [Jamie Stewart's repository](https://github.com/JamieDStewart/GBA_VSCode
 Pong is a great game to start with because while it is simple, it uses a lot of important funcitons that most games use, like drawing and controlling a sprite, collisions, velocity, and 
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [Loirak.com](http://www.loirak.com/gameboy/gbatutor.php) - Game Boy Advance programming for beginners
 * [CPSC305 - Computer Systems and Acrchitecture](https://ianfinlayson.net/class/cpsc305/) - College course at Universty at Mary Washington that uses the Game Boy Advance to teach C programming
 * [Tutorial by 3DSage](https://www.youtube.com/watch?v=6ecgELrwAnQ) - A quick video outlining a lot of important information about the GBA. It is also the template that I used for my game
+* * [Visual Boy Advance](https://visualboyadvance.org/) an emulator that can be used to run the game
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Fix bug where hitting the ball at a specific angle will cause strange velocity change
 * Add score keeping
 * Create more music
