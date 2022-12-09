@@ -4,7 +4,7 @@ A simple Pong game that I used to explore how programming games for the game boy
 
 I have always been interesting in making games, and I recently found an old Game Boy Advance I could play my old games on. This led to the question of how possible it would be to create my own game for this hardware, which led me to a community of individuals who have been doing this for a long time.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Demo Video](https://youtu.be/O8VWKPJT3sw)
 
 # Development Environment
 
